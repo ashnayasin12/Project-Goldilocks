@@ -8,7 +8,7 @@
 🚀 **Try the app here:**  
 👉 https://project-goldilocks.streamlit.app/
 
-***
+
 
 ## 🌌 Overview
 
@@ -19,7 +19,7 @@
 
 The project combines astrophysical intuition with a multi-output neural network and is deployed as a user-friendly **Streamlit web application**.
 
-***
+
 
 ## 🔭 Motivation
 
@@ -28,7 +28,7 @@ Direct measurements of habitability and atmospheres are rare, so scientists rely
 
 This project mirrors that reasoning process using AI.
 
-***
+
 
 ## 🧠 How It Works
 
@@ -52,7 +52,7 @@ The system uses a **multi-output deep learning model** trained on data from the 
 
 Predictions represent **likelihoods**, not confirmations.
 
-***
+
 
 ## 📊 Visual Exploration
 
@@ -64,7 +64,7 @@ The app includes educational visualizations that explain the data and model beha
 
 These help users understand *why* certain predictions are made.
 
-***
+
 
 ## 🔮 Planet Analyzer
 
@@ -75,7 +75,7 @@ Users can interactively:
 - Explore atmosphere probabilities via bar charts
 - Read human-friendly explanations of results
 
-***
+
 
 ## ⚙️ Tech Stack
 
@@ -85,16 +85,12 @@ Users can interactively:
 - **Streamlit**
 - **NumPy / Pandas**
 
-***
+
 
 ## 🚀 Deployment
 
 The application is deployed on **Streamlit Cloud** and runs entirely on a pre-trained model without requiring raw training data.
 
-Live application:  
-👉 https://project-goldilocks.streamlit.app/
-
-***
 
 ## ⚠️ Disclaimer
 
