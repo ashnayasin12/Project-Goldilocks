@@ -3,6 +3,13 @@
 
 ***
 
+## 🌍 Live Demo
+
+🚀 **Try the app here:**  
+👉 https://project-goldilocks.streamlit.app/
+
+***
+
 ## 🌌 Overview
 
 **Project Goldilocks** is an interactive deep learning application that analyzes the physical properties of exoplanets and their host stars to estimate:
@@ -82,7 +89,10 @@ Users can interactively:
 
 ## 🚀 Deployment
 
-The application is designed for deployment on **Streamlit Cloud** and runs entirely on a pre-trained model without requiring raw training data.
+The application is deployed on **Streamlit Cloud** and runs entirely on a pre-trained model without requiring raw training data.
+
+Live application:  
+👉 https://project-goldilocks.streamlit.app/
 
 ***
 
@@ -96,4 +106,3 @@ It does not claim to identify truly habitable planets or confirmed atmospheres.
 ## ✨ Author
 
 Built with curiosity, care, and a love for space 🌌
-
